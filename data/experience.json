@@ -1,0 +1,37 @@
+[
+  {
+    "logo": "SC",
+    "company": "Smile Care Research Team",
+    "location": "🔬 Research lab",
+    "title": "Research Assistant - Deep Learning & Computer Vision",
+    "type": "Research",
+    "start": "2026-06",
+    "end": "2026-09",
+    "description": "Led empirical research on convolutional networks and vision transformers for plant disease classification, from image preprocessing through model design to four-way explainability analysis.",
+    "projects": [
+      {
+        "title": "OliveLeafNet",
+        "description": "Inception V3 + RegNetY-032 dual-backbone fusion with Grad-CAM, LIME, saliency and SHAP explanations. 99.07% test accuracy."
+      },
+      {
+        "title": "Medicinal Plant Health Classification",
+        "description": "Comparative study across 16,000 images and 16 health classes with Swin-Tiny and MobileNet."
+      }
+    ],
+    "skillsLabel": "Stack",
+    "skills": ["PyTorch", "timm", "CNNs", "Vision Transformers", "Grad-CAM", "SHAP", "LIME"]
+  },
+  {
+    "logo": "AIUB",
+    "company": "American International University–Bangladesh (AIUB)",
+    "location": "📍 Dhaka, Bangladesh · On-site",
+    "title": "Departmental Intern",
+    "type": "Internship · Faculty of Science & Technology",
+    "start": "2026-06",
+    "end": "2026-09",
+    "description": "Provided departmental administrative coordination, oversaw laboratory and documentation workflows, and coordinated student–faculty academic support initiatives within the Faculty of Science & Technology.",
+    "projects": [],
+    "skillsLabel": "Skills",
+    "skills": ["Coordination", "Documentation", "Academic Support"]
+  }
+]

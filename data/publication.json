@@ -1,0 +1,40 @@
+[
+  {
+    "icon": "🌿",
+    "highlight": "99.07% Test Accuracy",
+    "title": "Olive LeafNet: A Dual-Backbone Hybrid Deep Learning Architecture with Explainable AI for Olive Leaf Disease Classification",
+    "meta": ["Journal Manuscript", "Springer Nature", "2026"],
+    "authors": ["Hasibul Hasan", "Hedayet Ullah Patwary", "Md Seum", "S M Abdullah Shafi", "et al."],
+    "abstract": "A dual-backbone CNN fusing multi-scale features from Inception V3 (2,048-D) with structural features from RegNetY-032 (1,512-D) to separate visually ambiguous foliar disease classes. Two-stage preprocessing (Non-Local Means denoising + CLAHE in CIE Lab colour space) normalizes illumination, and the model reaches **99.07% overall test accuracy on 5,000 images**, with perfect 1.00 F1-scores for the Senescent Spot and Young leaf classes. Four-way XAI cross-validation (Grad-CAM, LIME, saliency maps and Gradient SHAP) confirms that predictions track real botanical necrosis rather than background artefacts.",
+    "tags": ["PyTorch", "Inception V3", "RegNetY-032", "Explainable AI", "Grad-CAM", "SHAP", "LIME", "CLAHE"],
+    "status": "under-review",
+    "note": "Manuscript · Springer Nature",
+    "links": []
+  },
+  {
+    "icon": "🛡️",
+    "highlight": "0.984 AUC · 95.3% Faithfulness",
+    "title": "Evidence-Constrained Explainable Malware Detection Using Large Language Models",
+    "meta": ["Conference Paper", "IEEE QPAIN 2026", "2nd Int. Conf. on Quantum Photonics, AI, and Networking", "Chittagong, BD"],
+    "authors": [],
+    "abstract": "The Constrained Evidence Reasoning (CER) framework couples a high-precision XGBoost classifier (**0.984 AUC** over 2,568 static PE features) with large language models to generate automated, hallucination-resistant security audit reports. A dual-layer semantic constraint mechanism cuts the hallucination rate from **23.7% to 4.7%** and delivers 95.3% factual faithfulness in natural-language cybersecurity reports.",
+    "tags": ["Large Language Models", "XGBoost", "Malware Analysis", "Cybersecurity", "Explainability", "LLM Alignment"],
+    "status": "published",
+    "note": "IEEE QPAIN 2026 · Chittagong, Bangladesh",
+    "links": [
+      { "label": "View on IEEE Xplore", "url": "https://ieeexplore.ieee.org/document/11546322" }
+    ]
+  },
+  {
+    "icon": "🌱",
+    "highlight": "16,000 Images · 16 Classes",
+    "title": "Advanced Deep Learning Architectures for Medicinal Plant Health Classification: A Hybrid & Comparative Study",
+    "meta": ["Research Study", "Smile Care Research Team", "Research Assistant"],
+    "authors": [],
+    "abstract": "Lightweight Vision Transformers (Swin-Tiny) and compact CNN backbones (MobileNet, Xception) for identifying disease, chlorosis and dehydration stages across **16 health classes** of herbal species including Aloe Vera, Neem, Hibiscus, Kalanchoe pinnata and Piper betle. The study applies Elastic Net regularization and window-based multi-head self-attention, with evaluation metrics, confusion matrices and model quantization for edge deployment on agricultural handhelds.",
+    "tags": ["Swin-Tiny", "Vision Transformers", "MobileNet", "Xception", "Elastic Net", "Plant Pathology"],
+    "status": "under-review",
+    "note": "Research Study · Smile Care Research Team",
+    "links": []
+  }
+]

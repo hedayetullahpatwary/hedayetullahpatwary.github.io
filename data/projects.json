@@ -1,0 +1,98 @@
+[
+  {
+    "name": "LitVerse - Library Management System",
+    "cover": { "theme": "a", "icon": "devicon-csharp-plain", "label": "LitVerse" },
+    "badge": "🌐 Open Source",
+    "stack": ["C#", ".NET WinForms", "SQL Server", "iTextSharp"],
+    "categories": ["csharp", "sql"],
+    "description": "Windows Forms desktop app with role-based access (Admin, Librarian, Member), book issue and return tracking, automatic late-fine calculation and PDF invoice generation.",
+    "tags": ["library-management", "winforms", "rbac", "pdf-invoicing"],
+    "links": [
+      { "label": "GitHub", "icon": "github", "url": "https://github.com/hedayet-ullah-patwary/LitVerse-Library-CSharp" }
+    ]
+  },
+  {
+    "name": "SuperShop - Retail Management System",
+    "cover": { "theme": "b", "icon": "devicon-dot-net-plain", "label": "SuperShop" },
+    "badge": "🌐 Open Source",
+    "stack": ["C#", ".NET", "MS SQL Server"],
+    "categories": ["csharp", "sql"],
+    "description": "Desktop point-of-sale system with real-time cart validation, live inventory checks, sales-trend reports and multiple payment channels (Cash, bKash, Nagad, Card).",
+    "tags": ["point-of-sale", "inventory", "sales-reports", "payments"],
+    "links": [
+      { "label": "GitHub", "icon": "github", "url": "https://github.com/hedayet-ullah-patwary/SuperShop-Management-System-CSharp" }
+    ]
+  },
+  {
+    "name": "Hotel Management Web Platform",
+    "cover": { "theme": "c", "icon": "devicon-php-plain", "label": "Hotel Management" },
+    "badge": "🌐 Open Source",
+    "stack": ["PHP", "MySQL", "MVC", "AJAX"],
+    "categories": ["php", "sql"],
+    "description": "Full-stack MVC web application with three-tier authentication (Admin, Receptionist, Guest), calendar-checked room booking, employee leave workflows and AJAX-driven dashboards.",
+    "tags": ["mvc", "full-stack", "booking", "ajax"],
+    "links": [
+      { "label": "GitHub", "icon": "github", "url": "https://github.com/hedayet-ullah-patwary/Web-Technologies-Project" }
+    ]
+  },
+  {
+    "name": "TutorSheba - Tutor Match Platform",
+    "cover": { "theme": "d", "icon": "devicon-java-plain", "label": "TutorSheba" },
+    "badge": "🌐 Open Source",
+    "stack": ["Java", "Swing", "OOP", "File I/O"],
+    "categories": ["java"],
+    "description": "Dual-role Java Swing desktop system where guardians publish tuition requirements and tutors search and apply. Built on pure OOP design with structured file-based persistence.",
+    "tags": ["java-swing", "oop", "desktop-app", "file-io"],
+    "links": [
+      { "label": "GitHub", "icon": "github", "url": "https://github.com/hedayet-ullah-patwary/TutorSheba-Java-GUI-Management" }
+    ]
+  },
+  {
+    "name": "Village Scene 2D Simulation",
+    "cover": { "theme": "e", "icon": "devicon-cplusplus-plain", "label": "Village Scene" },
+    "badge": "🌐 Open Source",
+    "stack": ["C++", "OpenGL", "GLUT"],
+    "categories": ["cpp"],
+    "description": "Interactive multi-scene 2D graphics engine with keyboard navigation, background audio, sun-to-rain weather transitions and animated character movement.",
+    "tags": ["opengl", "computer-graphics", "animation", "glut"],
+    "links": [
+      { "label": "GitHub", "icon": "github", "url": "https://github.com/hedayet-ullah-patwary/Village-Scene-GLUT-Project" }
+    ]
+  },
+  {
+    "name": "Network Traffic Cybersecurity Analysis",
+    "cover": { "theme": "f", "icon": "devicon-r-plain", "label": "Traffic Analysis" },
+    "badge": "🌐 Open Source",
+    "stack": ["R", "tidyverse", "dplyr"],
+    "categories": ["r"],
+    "description": "End-to-end security data pipeline for packet-level traffic filtering, outlier cleaning, exploratory security analytics and feature engineering for intrusion-detection classifiers.",
+    "tags": ["cybersecurity", "data-cleaning", "eda", "intrusion-detection"],
+    "links": [
+      { "label": "GitHub", "icon": "github", "url": "https://github.com/hedayet-ullah-patwary/ANALYSIS_AND_PREPROCESSING_OF_NETWORK_TRAFFIC_FOR_CYBERSECURITY" }
+    ]
+  },
+  {
+    "name": "Power Station Database Engineering",
+    "cover": { "theme": "b", "icon": "devicon-azuresqldatabase-plain", "label": "Power Station DB" },
+    "badge": "🌐 Open Source",
+    "stack": ["Oracle SQL", "ER Modeling", "3NF"],
+    "categories": ["sql"],
+    "description": "Enterprise relational schema with full ER modeling, Third Normal Form mapping, analytical SQL (CTEs, subqueries, window functions) and integrity triggers.",
+    "tags": ["oracle-sql", "normalization", "er-diagram", "triggers"],
+    "links": [
+      { "label": "GitHub", "icon": "github", "url": "https://github.com/hedayet-ullah-patwary/intro-to-db-project" }
+    ]
+  },
+  {
+    "name": "CareerSync - AI Hiring Platform Specification",
+    "cover": { "theme": "a", "svg": "i-diagram", "label": "CareerSync" },
+    "badge": "🌐 Open Source",
+    "stack": ["Scrum", "UML", "COCOMO", "WBS"],
+    "categories": ["se"],
+    "description": "Full software-engineering lifecycle proposal for an AI-powered candidate–job recommendation platform: Scrum sprint backlogs, UML state diagrams, COCOMO cost estimation, WBS and risk matrix.",
+    "tags": ["software-engineering", "scrum", "uml", "risk-analysis"],
+    "links": [
+      { "label": "GitHub", "icon": "github", "url": "https://github.com/hedayet-ullah-patwary/CareerSync-SE-Project" }
+    ]
+  }
+]

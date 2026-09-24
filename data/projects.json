@@ -1,7 +1,7 @@
 [
   {
     "name": "LitVerse - Library Management System",
-    "image": "https://opengraph.githubassets.com/1/hedayetullahpatwary/LitVerse-Library-CSharp",
+    "image": "/assets/projects/litverse.png",
     "cover": { "theme": "a", "icon": "devicon-csharp-plain", "label": "LitVerse" },
     "badge": "🌐 Open Source",
     "stack": ["C#", ".NET WinForms", "SQL Server", "iTextSharp"],

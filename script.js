@@ -311,10 +311,13 @@
     var art = cover.svg
       ? '<svg class="cover-svg"><use href="#' + esc(cover.svg) + '" /></svg>'
       : '<i class="' + esc(cover.icon) + '"></i>';
+    var visual = p.image
+      ? '<img class="project-cover-image" src="' + esc(p.image) + '" alt="' + esc(p.name) + ' project preview" loading="lazy" />'
+      : art;
     var links = list(p.links);
 
     return '<article class="project-card reveal" data-category="' + esc(list(p.categories).join(' ')) + '">' +
-      '<div class="project-cover cover-' + esc(cover.theme || 'a') + '" aria-hidden="true">' + art + '<span>' + esc(cover.label || p.name) + '</span></div>' +
+      '<div class="project-cover cover-' + esc(cover.theme || 'a') + '">' + visual + '<span>' + esc(cover.label || p.name) + '</span></div>' +
       (p.badge ? '<span class="project-card-badge">' + esc(p.badge) + '</span>' : '') +
       '<div class="project-body">' +
         '<div class="project-lang">' + esc(list(p.stack).join(' · ')) + '</div>' +

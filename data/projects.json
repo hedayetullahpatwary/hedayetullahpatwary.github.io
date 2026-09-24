@@ -1,6 +1,7 @@
 [
   {
     "name": "LitVerse - Library Management System",
+    "image": "https://opengraph.githubassets.com/1/hedayetullahpatwary/LitVerse-Library-CSharp",
     "cover": { "theme": "a", "icon": "devicon-csharp-plain", "label": "LitVerse" },
     "badge": "🌐 Open Source",
     "stack": ["C#", ".NET WinForms", "SQL Server", "iTextSharp"],
@@ -8,11 +9,12 @@
     "description": "Windows Forms desktop app with role-based access (Admin, Librarian, Member), book issue and return tracking, automatic late-fine calculation and PDF invoice generation.",
     "tags": ["library-management", "winforms", "rbac", "pdf-invoicing"],
     "links": [
-      { "label": "GitHub", "icon": "github", "url": "https://github.com/hedayet-ullah-patwary/LitVerse-Library-CSharp" }
+      { "label": "GitHub", "icon": "github", "url": "https://github.com/hedayetullahpatwary/LitVerse-Library-CSharp" }
     ]
   },
   {
     "name": "SuperShop - Retail Management System",
+    "image": "https://opengraph.githubassets.com/1/hedayetullahpatwary/SuperShop-Management-System-CSharp",
     "cover": { "theme": "b", "icon": "devicon-dot-net-plain", "label": "SuperShop" },
     "badge": "🌐 Open Source",
     "stack": ["C#", ".NET", "MS SQL Server"],
@@ -20,11 +22,12 @@
     "description": "Desktop point-of-sale system with real-time cart validation, live inventory checks, sales-trend reports and multiple payment channels (Cash, bKash, Nagad, Card).",
     "tags": ["point-of-sale", "inventory", "sales-reports", "payments"],
     "links": [
-      { "label": "GitHub", "icon": "github", "url": "https://github.com/hedayet-ullah-patwary/SuperShop-Management-System-CSharp" }
+      { "label": "GitHub", "icon": "github", "url": "https://github.com/hedayetullahpatwary/SuperShop-Management-System-CSharp" }
     ]
   },
   {
     "name": "Hotel Management Web Platform",
+    "image": "https://opengraph.githubassets.com/1/hedayetullahpatwary/Web-Technologies-Project",
     "cover": { "theme": "c", "icon": "devicon-php-plain", "label": "Hotel Management" },
     "badge": "🌐 Open Source",
     "stack": ["PHP", "MySQL", "MVC", "AJAX"],
@@ -32,11 +35,12 @@
     "description": "Full-stack MVC web application with three-tier authentication (Admin, Receptionist, Guest), calendar-checked room booking, employee leave workflows and AJAX-driven dashboards.",
     "tags": ["mvc", "full-stack", "booking", "ajax"],
     "links": [
-      { "label": "GitHub", "icon": "github", "url": "https://github.com/hedayet-ullah-patwary/Web-Technologies-Project" }
+      { "label": "GitHub", "icon": "github", "url": "https://github.com/hedayetullahpatwary/Web-Technologies-Project" }
     ]
   },
   {
     "name": "TutorSheba - Tutor Match Platform",
+    "image": "https://opengraph.githubassets.com/1/hedayetullahpatwary/TutorSheba-Java-GUI-Management",
     "cover": { "theme": "d", "icon": "devicon-java-plain", "label": "TutorSheba" },
     "badge": "🌐 Open Source",
     "stack": ["Java", "Swing", "OOP", "File I/O"],
@@ -44,11 +48,12 @@
     "description": "Dual-role Java Swing desktop system where guardians publish tuition requirements and tutors search and apply. Built on pure OOP design with structured file-based persistence.",
     "tags": ["java-swing", "oop", "desktop-app", "file-io"],
     "links": [
-      { "label": "GitHub", "icon": "github", "url": "https://github.com/hedayet-ullah-patwary/TutorSheba-Java-GUI-Management" }
+      { "label": "GitHub", "icon": "github", "url": "https://github.com/hedayetullahpatwary/TutorSheba-Java-GUI-Management" }
     ]
   },
   {
     "name": "Village Scene 2D Simulation",
+    "image": "https://opengraph.githubassets.com/1/hedayetullahpatwary/Village-Scene-GLUT-Project",
     "cover": { "theme": "e", "icon": "devicon-cplusplus-plain", "label": "Village Scene" },
     "badge": "🌐 Open Source",
     "stack": ["C++", "OpenGL", "GLUT"],
@@ -56,11 +61,12 @@
     "description": "Interactive multi-scene 2D graphics engine with keyboard navigation, background audio, sun-to-rain weather transitions and animated character movement.",
     "tags": ["opengl", "computer-graphics", "animation", "glut"],
     "links": [
-      { "label": "GitHub", "icon": "github", "url": "https://github.com/hedayet-ullah-patwary/Village-Scene-GLUT-Project" }
+      { "label": "GitHub", "icon": "github", "url": "https://github.com/hedayetullahpatwary/Village-Scene-GLUT-Project" }
     ]
   },
   {
     "name": "Network Traffic Cybersecurity Analysis",
+    "image": "https://opengraph.githubassets.com/1/hedayetullahpatwary/ANALYSIS_AND_PREPROCESSING_OF_NETWORK_TRAFFIC_FOR_CYBERSECURITY",
     "cover": { "theme": "f", "icon": "devicon-r-plain", "label": "Traffic Analysis" },
     "badge": "🌐 Open Source",
     "stack": ["R", "tidyverse", "dplyr"],
@@ -68,11 +74,12 @@
     "description": "End-to-end security data pipeline for packet-level traffic filtering, outlier cleaning, exploratory security analytics and feature engineering for intrusion-detection classifiers.",
     "tags": ["cybersecurity", "data-cleaning", "eda", "intrusion-detection"],
     "links": [
-      { "label": "GitHub", "icon": "github", "url": "https://github.com/hedayet-ullah-patwary/ANALYSIS_AND_PREPROCESSING_OF_NETWORK_TRAFFIC_FOR_CYBERSECURITY" }
+      { "label": "GitHub", "icon": "github", "url": "https://github.com/hedayetullahpatwary/ANALYSIS_AND_PREPROCESSING_OF_NETWORK_TRAFFIC_FOR_CYBERSECURITY" }
     ]
   },
   {
     "name": "Power Station Database Engineering",
+    "image": "https://opengraph.githubassets.com/1/hedayetullahpatwary/intro-to-db-project",
     "cover": { "theme": "b", "icon": "devicon-azuresqldatabase-plain", "label": "Power Station DB" },
     "badge": "🌐 Open Source",
     "stack": ["Oracle SQL", "ER Modeling", "3NF"],
@@ -80,11 +87,12 @@
     "description": "Enterprise relational schema with full ER modeling, Third Normal Form mapping, analytical SQL (CTEs, subqueries, window functions) and integrity triggers.",
     "tags": ["oracle-sql", "normalization", "er-diagram", "triggers"],
     "links": [
-      { "label": "GitHub", "icon": "github", "url": "https://github.com/hedayet-ullah-patwary/intro-to-db-project" }
+      { "label": "GitHub", "icon": "github", "url": "https://github.com/hedayetullahpatwary/intro-to-db-project" }
     ]
   },
   {
     "name": "CareerSync - AI Hiring Platform Specification",
+    "image": "https://opengraph.githubassets.com/1/hedayetullahpatwary/CareerSync-SE-Project",
     "cover": { "theme": "a", "svg": "i-diagram", "label": "CareerSync" },
     "badge": "🌐 Open Source",
     "stack": ["Scrum", "UML", "COCOMO", "WBS"],
@@ -92,7 +100,7 @@
     "description": "Full software-engineering lifecycle proposal for an AI-powered candidate–job recommendation platform: Scrum sprint backlogs, UML state diagrams, COCOMO cost estimation, WBS and risk matrix.",
     "tags": ["software-engineering", "scrum", "uml", "risk-analysis"],
     "links": [
-      { "label": "GitHub", "icon": "github", "url": "https://github.com/hedayet-ullah-patwary/CareerSync-SE-Project" }
+      { "label": "GitHub", "icon": "github", "url": "https://github.com/hedayetullahpatwary/CareerSync-SE-Project" }
     ]
   }
 ]
